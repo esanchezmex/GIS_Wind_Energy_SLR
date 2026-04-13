@@ -2,3 +2,6 @@ __pycache__
 .DS_Store
 .venv
 venv/
+
+raw_data/UK_Boundries.geojson
+raw_data/UK_Boundries.geojson.zip
