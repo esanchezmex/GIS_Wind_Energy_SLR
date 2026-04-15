@@ -1,0 +1,3 @@
+scenario,n_affected_farms,baseline_total_mw,affected_total_mw,affected_share_of_baseline_pct,top1_affected_mw,top3_affected_mw,top5_affected_mw,top1_share_of_affected_pct,top3_share_of_affected_pct,top5_share_of_affected_pct,is_concentrated_top3_ge_50pct,priority_recommendation
+Affected_1m,41,13327.3,681.6,5.114314227187803,68.0,171.8,237.60000000000002,9.976525821596244,25.205399061032864,34.85915492957747,False,Use broader regional protection and portfolio-wide adaptation.
+Affected_3m,47,13327.3,784.7,5.887914281212249,68.0,171.8,239.70000000000002,8.665732126927487,21.893717344207978,30.546705747419395,False,Use broader regional protection and portfolio-wide adaptation.

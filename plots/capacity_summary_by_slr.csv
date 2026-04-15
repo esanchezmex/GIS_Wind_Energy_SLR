@@ -1,0 +1,3 @@
+scenario,scenario_label,n_affected_sites,n_remaining_sites,total_capacity_mw,lost_capacity_mw,remaining_capacity_mw,lost_capacity_pct,remaining_capacity_pct
+Affected_1m,1 m SLR,41,696,13327.3,681.6,12645.7,5.114314227187803,94.88568577281221
+Affected_3m,3 m SLR,47,690,13327.3,784.7,12542.6,5.887914281212249,94.11208571878777
